@@ -1,2 +1,2 @@
 #!/bib/bash
-print ""
+print "&2.f\n" $NUM
