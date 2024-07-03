@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Getting Apache server to run on the container and to return a page
+service apache2 start
